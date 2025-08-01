@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 --># 💫 About Me: Full-Stack developer with expertise on Flutter, React,Django,Next.Js
 
 
+# 💫 About Me:
+Full-Stack developer with expertise on Flutter, React,Django,Next.Js
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyob-tesfaye-480b30205/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyobtesfaye2002@gmail.com) 
 
@@ -28,5 +32,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EYOB123695&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
