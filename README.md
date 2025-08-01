@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 --># 💫 About Me: Full-Stack developer with expertise on Flutter, React,Django,Next.Js
 
 
-# 💫 About Me:
-Full-Stack developer with expertise on Flutter, React,Django,Next.Js
 
 
 ## 🌐 Socials:
